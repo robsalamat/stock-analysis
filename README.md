@@ -29,11 +29,7 @@ The most significant changes in the code is that:
 - Instead of searching for one ticker data 12 times, we searched the 12 tickers' data in one pass.
 
 ### C. Execution Time
-![](Resources/Execution_Time_Comparison_2017.png)
 
-
-
-![](Resources/Execution_Time_Comparison_2018.png)
 
 
 
