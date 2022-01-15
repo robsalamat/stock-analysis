@@ -40,5 +40,9 @@ Comparison for 2018
 **The execution times of the two versions show that the refactored script is almost 5 times faster than the original script.**
 
 ## III. Summary
-- 
-- 
+### Advantages / Disadvantages of refactoring code
+From our Refactoring code will no doubt
+
+### Advantages / Disadvantages of the original and refactored VBA script
+
+
